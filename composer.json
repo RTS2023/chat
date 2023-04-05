@@ -1,10 +1,10 @@
 {
-    "name": "iulian/chat",
+    "name": "rts/chat",
     "description": "Messenger functionality for Laravel 9.0",
     "authors": [
         {
-            "name": "iulian",
-            "email": "onofrei.iulian1@gmail.com"
+            "name": "eugen",
+            "email": "eugeniu.luchianov@rts.one"
         }
     ],
     "minimum-stability": "dev",
